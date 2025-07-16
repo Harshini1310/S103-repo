@@ -1,3 +1,4 @@
 1) git installation (git creates an empty repository)
 	command needed:
 	working directory:\>git init
+hello hello
